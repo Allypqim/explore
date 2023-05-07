@@ -15,7 +15,7 @@ items:
  - superpowers/superpowers-core
  - AtomicGameEngine/AtomicGameEngine
  - 4ian/GDevelop
- - urho3d/Urho3D
+ - urho3d/urho3d
  - methusalah/OpenRTS
  - photonstorm/phaser
  - melonjs/melonJS
@@ -54,6 +54,8 @@ items:
  - cerberusxdev/cerberus
  - ganelson/inform
  - hexops/mach
+ - PurpleKingdomGames/indigo
+ - nivanov/cosplay
 display_name: Game Engines
 created_by: leereilly
 ---

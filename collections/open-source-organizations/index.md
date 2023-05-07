@@ -9,7 +9,6 @@ items:
  - twitter/opensource-website
  - guardian/guardian.github.com
  - Yelp/yelp.github.io
- - Shopify/shopify.github.com
  - IBM/ibm.github.io
  - microsoft/microsoft.github.io
  - artsy/artsy.github.io
@@ -27,8 +26,9 @@ items:
  - newrelic/opensource-website
  - docker/docs
  - ExpediaGroup/expediagroup.github.io
- - wikimedia/wikimedia.github.io
  - fairfield-programming/fairfield-programming.github.io
+ - komodorio/helm-dashboard
+ - devtron-labs/devtron
 display_name: Open source organizations
 created_by: benbalter
 image: open-source-organizations.png
